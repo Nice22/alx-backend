@@ -1,1 +1,5 @@
-# Pagination
+# 0x00. Pagination
+
+<p><img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/3646eb02de6527ca5d83.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20231226%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20231226T113524Z&amp;X-Amz-Expires=86400&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=bc1f1691a27d6d680d5bcb1e39a54ad319cc1a2179b2cd6351c856efedd7a9bb" alt="" loading="lazy" style="">
+<img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/746187b76bea1f46030e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20231226%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20231226T113524Z&amp;X-Amz-Expires=86400&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=bed8c07ad9ea22b232a07a71cf3ada9ae97befe010b6650697bddb456248ac4b" alt="" loading="lazy" style="">
+<img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/665ce871c2ecc66a8e71.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20231226%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20231226T113524Z&amp;X-Amz-Expires=86400&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=f5df3efdc917c53d09cb5607e551e3d2ca3b1c1a02364550096be565c56600bd" alt="" loading="lazy" style=""></p>
